@@ -1,0 +1,725 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2017-09-29 18:01+0000\n"
+"PO-Revision-Date: 2017-09-29 18:40-0400\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+
+#: Controller/CommentsController.php:82;110
+msgid "The comment has been saved."
+msgstr "コメントは保存されました。"
+
+#: Controller/CommentsController.php:86;114
+msgid "The comment could not be saved. Please, try again."
+msgstr "バージョンは保存できませんでした。 、もう一度試してください。"
+
+#: Controller/CommentsController.php:134
+msgid "The comment has been deleted."
+msgstr "コメントは削除されました。"
+
+#: Controller/CommentsController.php:136
+msgid "The comment could not be deleted. Please, try again."
+msgstr "バージョンは削除できませんでした。 、もう一度試してください。"
+
+#: Controller/CrimesController.php:82;84;85;86;186 Template/Crimes/add.ctp:22
+#: Template/Crimes/edit.ctp:28
+msgid "Agression Sexuelle"
+msgstr "性的暴力"
+
+#: Controller/CrimesController.php:89;91;92;93;193 Template/Crimes/add.ctp:22
+#: Template/Crimes/edit.ctp:28
+msgid "Bande Organisée"
+msgstr "組織化されたバンド"
+
+#: Controller/CrimesController.php:96;98;99;100;200 Template/Crimes/add.ctp:22
+#: Template/Crimes/edit.ctp:28
+msgid "Bombe Radiologique"
+msgstr "放射線爆弾"
+
+#: Controller/CrimesController.php:103;105;106;107;207
+#: Template/Crimes/add.ctp:22 Template/Crimes/edit.ctp:28
+msgid "Crime Passionnel"
+msgstr "情熱的な犯罪"
+
+#: Controller/CrimesController.php:110;112;113;114;214
+#: Template/Crimes/add.ctp:22 Template/Crimes/edit.ctp:28
+msgid "Incendie Volontaire"
+msgstr "火災ボランティア"
+
+#: Controller/CrimesController.php:123;151
+msgid "The crime has been saved."
+msgstr "犯罪は救われました。"
+
+#: Controller/CrimesController.php:128;155
+msgid "The crime could not be saved. Please, try again."
+msgstr "バージョンは保存できませんでした。 、もう一度試してください。"
+
+#: Controller/CrimesController.php:175
+msgid "The crime has been deleted."
+msgstr "犯罪は削除されました。"
+
+#: Controller/CrimesController.php:177
+msgid "The crime could not be deleted. Please, try again."
+msgstr "バージョンは削除できませんでした。 、もう一度試してください。"
+
+#: Controller/EventsController.php:80;107
+msgid "The event has been saved."
+msgstr "イベントは保存されました。"
+
+#: Controller/EventsController.php:84;111
+msgid "The event could not be saved. Please, try again."
+msgstr "バージョンは保存できませんでした。 、もう一度試してください。"
+
+#: Controller/EventsController.php:131
+msgid "The event has been deleted."
+msgstr "イベントは削除されました。"
+
+#: Controller/EventsController.php:133
+msgid "The event could not be deleted. Please, try again."
+msgstr "バージョンは削除できませんでした。 、もう一度試してください。"
+
+#: Controller/FilesController.php:92
+msgid "File has been uploaded and inserted successfully."
+msgstr "ファイルがアップロードされ、正常に挿入されました。"
+
+#: Controller/FilesController.php:96;99
+msgid "Unable to upload file, please try again."
+msgstr "ファイルをアップロードできません。もう一度お試しください。"
+
+#: Controller/FilesController.php:102
+msgid "Please choose a file to upload."
+msgstr "アップロードするファイルを選択してください。"
+
+#: Controller/FilesController.php:238
+msgid "The file has been saved."
+msgstr "ファイルが保存されました。"
+
+#: Controller/FilesController.php:242
+msgid "The file could not be saved. Please, try again."
+msgstr "バージョンは保存できませんでした。 、もう一度試してください。"
+
+#: Controller/FilesController.php:261
+msgid "The file has been deleted."
+msgstr "ファイルが削除されました。"
+
+#: Controller/FilesController.php:263
+msgid "The file could not be deleted. Please, try again."
+msgstr "バージョンは削除できませんでした。 、もう一度試してください。"
+
+#: Controller/SuspectsController.php:86;114
+msgid "The suspect has been saved."
+msgstr "容疑者は救われました。"
+
+#: Controller/SuspectsController.php:90;118
+msgid "The suspect could not be saved. Please, try again."
+msgstr "バージョンは保存できませんでした。 、もう一度試してください。"
+
+#: Controller/SuspectsController.php:139
+msgid "The suspect has been deleted."
+msgstr "容疑者は削除されました。"
+
+#: Controller/SuspectsController.php:141
+msgid "The suspect could not be deleted. Please, try again."
+msgstr "バージョンは削除できませんでした。 、もう一度試してください。"
+
+#: Controller/UsersController.php:110;136
+msgid "The user has been saved."
+msgstr "ユーザーは保存されました。"
+
+#: Controller/UsersController.php:115;141
+msgid "The user could not be saved. Please, try again."
+msgstr "バージョンは保存できませんでした。 、もう一度試してください。"
+
+#: Controller/UsersController.php:159
+msgid "The user has been deleted."
+msgstr "ユーザーは削除されました。"
+
+#: Controller/UsersController.php:161
+msgid "The user could not be deleted. Please, try again."
+msgstr "バージョンは削除できませんでした。 、もう一度試してください。"
+
+#: Controller/VehiculesController.php:84;86;87;88 Template/Vehicules/add.ctp:22
+msgid "Aucun"
+msgstr "いいえ"
+
+#: Controller/VehiculesController.php:91;93;94;95 Template/Vehicules/add.ctp:22
+msgid "Camion"
+msgstr "カミオン"
+
+#: Controller/VehiculesController.php:98;100;101;102
+#: Template/Vehicules/add.ctp:22
+msgid "Moto"
+msgstr "モト"
+
+#: Controller/VehiculesController.php:105;107;108;109
+#: Template/Vehicules/add.ctp:22
+msgid "Helicoptere"
+msgstr "ヘリコプター"
+
+#: Controller/VehiculesController.php:112;114;115;116
+#: Template/Vehicules/add.ctp:22
+msgid "Voiture"
+msgstr "車"
+
+#: Controller/VehiculesController.php:128;154
+msgid "The vehicule has been saved."
+msgstr "車両は救われました。"
+
+#: Controller/VehiculesController.php:132;158
+msgid "The vehicule could not be saved. Please, try again."
+msgstr "バージョンは保存できませんでした。 、もう一度試してください。"
+
+#: Controller/VehiculesController.php:177
+msgid "The vehicule has been deleted."
+msgstr "車両が削除されました。"
+
+#: Controller/VehiculesController.php:179
+msgid "The vehicule could not be deleted. Please, try again."
+msgstr "バージョンは削除できませんでした。 、もう一度試してください。"
+
+#: Model/Table/VehiculesTable.php:77
+msgid "La plaque doit faire exactement 6 charactères"
+msgstr "ラ・プラーク・ドゥイト・フェアリー・コンセプト6文字"
+
+#: Template/Comments/add.ctp:8 Template/Comments/edit.ctp:8
+#: Template/Comments/index.ctp:9;26 Template/Comments/view.ctp:9
+#: Template/Crimes/add.ctp:8 Template/Crimes/edit.ctp:8
+#: Template/Crimes/index.ctp:9;26 Template/Crimes/view.ctp:9
+#: Template/Events/add.ctp:8 Template/Events/edit.ctp:8
+#: Template/Events/index.ctp:9;26 Template/Events/view.ctp:9;48;79
+#: Template/Files/add.ctp:8 Template/Files/edit.ctp:8
+#: Template/Files/index.ctp:9;30 Template/Files/index_1.ctp:9;26
+#: Template/Files/index_2.ctp:9 Template/Files/view.ctp:9;61
+#: Template/Suspects/add.ctp:8 Template/Suspects/edit.ctp:8
+#: Template/Suspects/index.ctp:9;27 Template/Suspects/view.ctp:9;47;70;94
+#: Template/Users/add.ctp:8 Template/Users/edit.ctp:8
+#: Template/Users/index.ctp:9;29 Template/Users/view.ctp:9;55;83;111
+#: Template/Vehicules/add.ctp:8 Template/Vehicules/edit.ctp:8
+#: Template/Vehicules/index.ctp:9;26 Template/Vehicules/view.ctp:9;46
+msgid "Actions"
+msgstr "行動"
+
+#: Template/Comments/add.ctp:9 Template/Comments/edit.ctp:15
+#: Template/Comments/view.ctp:12 Template/Crimes/add.ctp:12
+#: Template/Crimes/edit.ctp:18 Template/Crimes/index.ctp:13
+#: Template/Crimes/view.ctp:16 Template/Events/add.ctp:14
+#: Template/Events/edit.ctp:21 Template/Events/index.ctp:15
+#: Template/Events/view.ctp:18 Template/Files/add.ctp:14
+#: Template/Files/edit.ctp:20 Template/Files/index.ctp:16
+#: Template/Files/view.ctp:17 Template/Suspects/add.ctp:11
+#: Template/Suspects/edit.ctp:17 Template/Suspects/index.ctp:12
+#: Template/Suspects/view.ctp:14 Template/Users/add.ctp:12
+#: Template/Users/edit.ctp:18 Template/Users/index.ctp:13
+#: Template/Users/view.ctp:15 Template/Vehicules/add.ctp:11
+#: Template/Vehicules/edit.ctp:17 Template/Vehicules/index.ctp:12
+#: Template/Vehicules/view.ctp:14
+msgid "List Comments"
+msgstr "リストコメント"
+
+#: Template/Comments/add.ctp:10 Template/Comments/edit.ctp:16
+#: Template/Comments/index.ctp:11 Template/Comments/view.ctp:13
+#: Template/Crimes/add.ctp:10 Template/Crimes/edit.ctp:16
+#: Template/Crimes/index.ctp:11 Template/Crimes/view.ctp:14
+#: Template/Events/add.ctp:12 Template/Events/edit.ctp:19
+#: Template/Events/index.ctp:13 Template/Events/view.ctp:16
+#: Template/Files/add.ctp:12 Template/Files/edit.ctp:18
+#: Template/Files/index.ctp:14 Template/Files/view.ctp:15
+#: Template/Suspects/add.ctp:9 Template/Suspects/edit.ctp:15
+#: Template/Suspects/view.ctp:12 Template/Users/add.ctp:10
+#: Template/Users/edit.ctp:16 Template/Users/index.ctp:11
+#: Template/Users/view.ctp:13 Template/Vehicules/add.ctp:10
+#: Template/Vehicules/edit.ctp:16 Template/Vehicules/index.ctp:11
+#: Template/Vehicules/view.ctp:13
+msgid "List Suspects"
+msgstr "容疑者リスト"
+
+#: Template/Comments/add.ctp:11 Template/Comments/edit.ctp:17
+#: Template/Comments/index.ctp:12 Template/Comments/view.ctp:14
+#: Template/Crimes/add.ctp:11 Template/Crimes/edit.ctp:17
+#: Template/Crimes/index.ctp:12 Template/Crimes/view.ctp:15
+#: Template/Events/add.ctp:13 Template/Events/edit.ctp:20
+#: Template/Events/index.ctp:14 Template/Events/view.ctp:17
+#: Template/Files/add.ctp:13 Template/Files/edit.ctp:19
+#: Template/Files/index.ctp:15 Template/Files/view.ctp:16
+#: Template/Suspects/add.ctp:10 Template/Suspects/edit.ctp:16
+#: Template/Suspects/index.ctp:11 Template/Suspects/view.ctp:13
+#: Template/Users/add.ctp:11 Template/Users/edit.ctp:17
+#: Template/Users/index.ctp:12 Template/Users/view.ctp:14
+#: Template/Vehicules/add.ctp:9 Template/Vehicules/edit.ctp:15
+#: Template/Vehicules/view.ctp:12
+msgid "List Vehicules"
+msgstr "ビークルを一覧表示する"
+
+#: Template/Comments/add.ctp:12 Template/Comments/edit.ctp:18
+#: Template/Comments/index.ctp:13 Template/Comments/view.ctp:15
+#: Template/Crimes/add.ctp:9 Template/Crimes/edit.ctp:15
+#: Template/Crimes/view.ctp:12 Template/Events/add.ctp:11
+#: Template/Events/edit.ctp:18 Template/Events/index.ctp:12
+#: Template/Events/view.ctp:15 Template/Files/add.ctp:11
+#: Template/Files/edit.ctp:17 Template/Files/index.ctp:13
+#: Template/Files/view.ctp:14 Template/Suspects/add.ctp:12
+#: Template/Suspects/edit.ctp:18 Template/Suspects/index.ctp:13
+#: Template/Suspects/view.ctp:15 Template/Users/add.ctp:13
+#: Template/Users/edit.ctp:19 Template/Users/index.ctp:14
+#: Template/Users/view.ctp:16 Template/Vehicules/add.ctp:12
+#: Template/Vehicules/edit.ctp:18 Template/Vehicules/index.ctp:13
+#: Template/Vehicules/view.ctp:15
+msgid "List Crimes"
+msgstr "リスト犯罪"
+
+#: Template/Comments/add.ctp:13 Template/Comments/edit.ctp:19
+#: Template/Comments/index.ctp:14 Template/Comments/view.ctp:16
+#: Template/Crimes/add.ctp:13 Template/Crimes/edit.ctp:19
+#: Template/Crimes/index.ctp:14 Template/Crimes/view.ctp:17
+#: Template/Events/add.ctp:9 Template/Events/edit.ctp:15
+#: Template/Events/view.ctp:12 Template/Files/add.ctp:10
+#: Template/Files/edit.ctp:16 Template/Files/index.ctp:11;12
+#: Template/Files/index_1.ctp:11 Template/Files/index_2.ctp:11
+#: Template/Files/view.ctp:13 Template/Suspects/add.ctp:13
+#: Template/Suspects/edit.ctp:19 Template/Suspects/index.ctp:14
+#: Template/Suspects/view.ctp:16 Template/Users/add.ctp:14
+#: Template/Users/edit.ctp:20 Template/Users/index.ctp:15
+#: Template/Users/view.ctp:17 Template/Vehicules/add.ctp:13
+#: Template/Vehicules/edit.ctp:19 Template/Vehicules/index.ctp:14
+#: Template/Vehicules/view.ctp:16
+msgid "List Events"
+msgstr "イベントを一覧表示する"
+
+#: Template/Comments/add.ctp:14 Template/Comments/edit.ctp:20
+#: Template/Comments/index.ctp:15 Template/Comments/view.ctp:17
+#: Template/Crimes/add.ctp:14 Template/Crimes/edit.ctp:20
+#: Template/Crimes/index.ctp:15 Template/Crimes/view.ctp:18
+#: Template/Events/add.ctp:10 Template/Events/edit.ctp:17
+#: Template/Events/index.ctp:11 Template/Events/view.ctp:14
+#: Template/Files/add.ctp:9 Template/Files/edit.ctp:15
+#: Template/Files/view.ctp:12 Template/Suspects/add.ctp:14
+#: Template/Suspects/edit.ctp:20 Template/Suspects/index.ctp:15
+#: Template/Suspects/view.ctp:17 Template/Users/add.ctp:15
+#: Template/Users/edit.ctp:21 Template/Users/index.ctp:16
+#: Template/Users/view.ctp:18 Template/Vehicules/add.ctp:14
+#: Template/Vehicules/edit.ctp:20 Template/Vehicules/index.ctp:15
+#: Template/Vehicules/view.ctp:17
+msgid "List Files"
+msgstr "リストファイル"
+
+#: Template/Comments/add.ctp:20
+msgid "Add Comment"
+msgstr "コメントを追加"
+
+#: Template/Comments/add.ctp:26 Template/Comments/edit.ctp:32
+#: Template/Crimes/add.ctp:26 Template/Crimes/edit.ctp:32
+#: Template/Events/add.ctp:28 Template/Events/edit.ctp:35
+#: Template/Files/add.ctp:29 Template/Files/edit.ctp:34
+#: Template/Suspects/add.ctp:28 Template/Suspects/edit.ctp:34
+#: Template/Users/add.ctp:27 Template/Users/edit.ctp:37
+#: Template/Vehicules/add.ctp:26 Template/Vehicules/edit.ctp:32
+msgid "Submit"
+msgstr "提出する"
+
+#: Template/Comments/edit.ctp:10 Template/Comments/index.ctp:38
+#: Template/Crimes/edit.ctp:10 Template/Crimes/index.ctp:38
+#: Template/Events/edit.ctp:10 Template/Events/index.ctp:38
+#: Template/Events/view.ctp:62;91 Template/Files/edit.ctp:10
+#: Template/Files/index.ctp:46 Template/Files/index_1.ctp:41
+#: Template/Files/view.ctp:71 Template/Suspects/edit.ctp:10
+#: Template/Suspects/index.ctp:40 Template/Suspects/view.ctp:56;79;104
+#: Template/Users/edit.ctp:10 Template/Users/index.ctp:43
+#: Template/Users/view.ctp:67;94;123 Template/Vehicules/edit.ctp:10
+#: Template/Vehicules/index.ctp:38 Template/Vehicules/view.ctp:58
+msgid "Delete"
+msgstr "削除"
+
+#: Template/Comments/edit.ctp:12 Template/Comments/index.ctp:38
+#: Template/Comments/view.ctp:11 Template/Crimes/edit.ctp:12
+#: Template/Crimes/index.ctp:38 Template/Crimes/view.ctp:11
+#: Template/Events/edit.ctp:12 Template/Events/index.ctp:38
+#: Template/Events/view.ctp:11;62;91 Template/Files/edit.ctp:12
+#: Template/Files/index.ctp:46 Template/Files/index_1.ctp:41
+#: Template/Files/view.ctp:11;71 Template/Suspects/edit.ctp:12
+#: Template/Suspects/index.ctp:40 Template/Suspects/view.ctp:11;56;79;104
+#: Template/Users/edit.ctp:12 Template/Users/index.ctp:43
+#: Template/Users/view.ctp:11;67;94;123 Template/Vehicules/edit.ctp:12
+#: Template/Vehicules/index.ctp:38 Template/Vehicules/view.ctp:11;58
+msgid "Are you sure you want to delete # {0}?"
+msgstr "下位項目も削除されます。削除してもよろしいですか？"
+
+#: Template/Comments/edit.ctp:26 Template/Comments/view.ctp:10
+msgid "Edit Comment"
+msgstr "コメントを編集"
+
+#: Template/Comments/index.ctp:10
+msgid "New Comment"
+msgstr "新しいコメント"
+
+#: Template/Comments/index.ctp:19
+msgid "Comments"
+msgstr "コメント"
+
+#: Template/Comments/index.ctp:36 Template/Crimes/index.ctp:36
+#: Template/Events/index.ctp:36 Template/Events/view.ctp:60;89
+#: Template/Files/index.ctp:44 Template/Files/index_1.ctp:39
+#: Template/Files/view.ctp:69 Template/Suspects/index.ctp:38
+#: Template/Suspects/view.ctp:54;77;102 Template/Users/index.ctp:41
+#: Template/Users/view.ctp:65;92;121 Template/Vehicules/index.ctp:36
+#: Template/Vehicules/view.ctp:56
+msgid "View"
+msgstr "表示"
+
+#: Template/Comments/index.ctp:37 Template/Crimes/index.ctp:37
+#: Template/Events/index.ctp:37 Template/Events/view.ctp:61;90
+#: Template/Files/index.ctp:45 Template/Files/index_1.ctp:40
+#: Template/Files/view.ctp:70 Template/Suspects/index.ctp:39
+#: Template/Suspects/view.ctp:55;78;103 Template/Users/index.ctp:42
+#: Template/Users/view.ctp:66;93;122 Template/Vehicules/index.ctp:37
+#: Template/Vehicules/view.ctp:57
+msgid "Edit"
+msgstr "編集"
+
+#: Template/Comments/index.ctp:46 Template/Crimes/index.ctp:46
+#: Template/Events/index.ctp:46 Template/Files/index.ctp:54
+#: Template/Files/index_1.ctp:49 Template/Suspects/index.ctp:48
+#: Template/Users/index.ctp:51 Template/Vehicules/index.ctp:46
+msgid "first"
+msgstr "まず"
+
+#: Template/Comments/index.ctp:47 Template/Crimes/index.ctp:47
+#: Template/Events/index.ctp:47 Template/Files/index.ctp:55
+#: Template/Files/index_1.ctp:50 Template/Suspects/index.ctp:49
+#: Template/Users/index.ctp:52 Template/Vehicules/index.ctp:47
+msgid "previous"
+msgstr "前へ"
+
+#: Template/Comments/index.ctp:49 Template/Crimes/index.ctp:49
+#: Template/Events/index.ctp:49 Template/Files/index.ctp:57
+#: Template/Files/index_1.ctp:52 Template/Suspects/index.ctp:51
+#: Template/Users/index.ctp:54 Template/Vehicules/index.ctp:49
+msgid "next"
+msgstr "次へ"
+
+#: Template/Comments/index.ctp:50 Template/Crimes/index.ctp:50
+#: Template/Events/index.ctp:50 Template/Files/index.ctp:58
+#: Template/Files/index_1.ctp:53 Template/Suspects/index.ctp:52
+#: Template/Users/index.ctp:55 Template/Vehicules/index.ctp:50
+msgid "last"
+msgstr "最後"
+
+#: Template/Comments/index.ctp:52 Template/Crimes/index.ctp:52
+#: Template/Events/index.ctp:52 Template/Files/index.ctp:60
+#: Template/Files/index_1.ctp:55 Template/Suspects/index.ctp:54
+#: Template/Users/index.ctp:57 Template/Vehicules/index.ctp:52
+msgid ""
+"Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} "
+"total"
+msgstr ""
+"{{count}}個のうち{{現在}}件のレコードを表示している{{pages}}の{{page}}ページ"
+
+#: Template/Comments/view.ctp:11
+msgid "Delete Comment"
+msgstr "コメントを削除"
+
+#: Template/Comments/view.ctp:24 Template/Crimes/view.ctp:29
+msgid "Suspect"
+msgstr "疑う"
+
+#: Template/Comments/view.ctp:28 Template/Crimes/view.ctp:33
+#: Template/Events/view.ctp:29;74 Template/Files/view.ctp:37;58
+#: Template/Suspects/view.ctp:36;68;91 Template/Users/view.ctp:29;50;79;106
+#: Template/Vehicules/view.ctp:32;41
+msgid "Id"
+msgstr "Id"
+
+#: Template/Comments/view.ctp:33 Template/Suspects/view.ctp:45
+#: Template/Users/view.ctp:51
+msgid "Address"
+msgstr "住所"
+
+#: Template/Comments/view.ctp:37 Template/Suspects/view.ctp:46
+#: Template/Users/view.ctp:52
+msgid "Message"
+msgstr "メッセージ"
+
+#: Template/Crimes/add.ctp:20
+msgid "Add Crime"
+msgstr "犯罪を追加する"
+
+#: Template/Crimes/edit.ctp:26 Template/Crimes/view.ctp:10
+msgid "Edit Crime"
+msgstr "犯罪を編集する"
+
+#: Template/Crimes/index.ctp:10 Template/Crimes/view.ctp:13
+msgid "New Crime"
+msgstr "新しい犯罪"
+
+#: Template/Crimes/index.ctp:19
+msgid "Crimes"
+msgstr "犯罪"
+
+#: Template/Crimes/view.ctp:11
+msgid "Delete Crime"
+msgstr "犯罪の削除"
+
+#: Template/Crimes/view.ctp:25 Template/Events/view.ctp:25
+#: Template/Files/view.ctp:60 Template/Suspects/view.ctp:69;93
+#: Template/Users/view.ctp:80
+msgid "Description"
+msgstr "説明"
+
+#: Template/Events/add.ctp:20
+msgid "Add Event"
+msgstr "イベントを追加"
+
+#: Template/Events/edit.ctp:16 Template/Events/index.ctp:10
+#: Template/Events/view.ctp:13 Template/Files/index_1.ctp:12
+#: Template/Files/index_2.ctp:12
+msgid "New Event"
+msgstr "新しいイベント"
+
+#: Template/Events/edit.ctp:27 Template/Events/view.ctp:10
+msgid "Edit Event"
+msgstr "イベントの編集"
+
+#: Template/Events/index.ctp:19
+msgid "Events"
+msgstr "イベント"
+
+#: Template/Events/view.ctp:11
+msgid "Delete Event"
+msgstr "イベントの削除"
+
+#: Template/Events/view.ctp:33 Template/Files/view.ctp:59
+#: Template/Suspects/view.ctp:92
+msgid "Date"
+msgstr "日付"
+
+#: Template/Events/view.ctp:38
+msgid "Related Files"
+msgstr "関連ファイル"
+
+#: Template/Events/view.ctp:42 Template/Files/view.ctp:24
+msgid "Image"
+msgstr "画像"
+
+#: Template/Events/view.ctp:43;76 Template/Files/view.ctp:29
+#: Template/Suspects/view.ctp:28 Template/Users/view.ctp:108
+#: Template/Vehicules/view.ctp:43
+msgid "Name"
+msgstr "名前"
+
+#: Template/Events/view.ctp:44 Template/Files/view.ctp:33
+msgid "Path"
+msgstr "パス"
+
+#: Template/Events/view.ctp:45 Template/Files/view.ctp:41
+#: Template/Users/view.ctp:37
+msgid "Created"
+msgstr "作成した"
+
+#: Template/Events/view.ctp:46 Template/Files/view.ctp:45
+#: Template/Users/view.ctp:41
+msgid "Modified"
+msgstr "変更された"
+
+#: Template/Events/view.ctp:47 Template/Files/view.ctp:49
+msgid "Status"
+msgstr "状態"
+
+#: Template/Events/view.ctp:70 Template/Users/view.ctp:102
+#: Template/Vehicules/view.ctp:37
+msgid "Related Suspects"
+msgstr "関連する容疑者"
+
+#: Template/Events/view.ctp:75 Template/Suspects/view.ctp:24
+#: Template/Users/view.ctp:107 Template/Vehicules/view.ctp:42
+msgid "Firstname"
+msgstr "ファーストネーム（名）"
+
+#: Template/Events/view.ctp:77 Template/Users/view.ctp:109
+#: Template/Vehicules/view.ctp:44
+msgid "Vehicule Id"
+msgstr "車両 Id"
+
+#: Template/Events/view.ctp:78 Template/Users/view.ctp:54;82;110
+#: Template/Vehicules/view.ctp:45
+msgid "User Id"
+msgstr "ユーザー ID"
+
+#: Template/Files/add.ctp:20
+msgid "Add File"
+msgstr "ファイルを追加する"
+
+#: Template/Files/edit.ctp:26 Template/Files/view.ctp:10
+msgid "Edit File"
+msgstr "ファイルの編集"
+
+#: Template/Files/index.ctp:10 Template/Files/index_1.ctp:10
+#: Template/Files/index_2.ctp:10
+msgid "New File"
+msgstr "新しいファイル"
+
+#: Template/Files/index.ctp:20 Template/Files/index_1.ctp:16
+msgid "Files"
+msgstr "ファイル"
+
+#: Template/Files/index_2.ctp:22
+msgid "Upload File"
+msgstr "ファイルをアップロード"
+
+#: Template/Files/view.ctp:11
+msgid "Delete File"
+msgstr "ファイルを削除する"
+
+#: Template/Files/view.ctp:50
+msgid "Yes"
+msgstr "はい"
+
+#: Template/Files/view.ctp:50
+msgid "No"
+msgstr "いいえ"
+
+#: Template/Files/view.ctp:54 Template/Suspects/view.ctp:87
+msgid "Related Events"
+msgstr "関連イベント"
+
+#: Template/Layout/default.ctp:49
+msgid " Profil"
+msgstr "プロフィール"
+
+#: Template/Layout/default.ctp:56
+msgid " Users"
+msgstr "ユーザー"
+
+#: Template/Layout/default.ctp:69
+msgid "Register"
+msgstr "レジスタ"
+
+#: Template/Layout/default.ctp:76
+msgid " logout"
+msgstr "ログアウト"
+
+#: Template/Layout/default.ctp:78
+msgid "Login"
+msgstr "ログイン"
+
+#: Template/Layout/error.ctp:35 Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr "エラー"
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "戻る"
+
+#: Template/Suspects/add.ctp:20
+msgid "Add Suspect"
+msgstr "容疑者を追加"
+
+#: Template/Suspects/edit.ctp:26 Template/Suspects/view.ctp:10
+msgid "Edit Suspect"
+msgstr "容疑者の編集"
+
+#: Template/Suspects/index.ctp:10
+msgid "New Suspect"
+msgstr "新しい容疑者"
+
+#: Template/Suspects/index.ctp:19
+msgid "Suspects"
+msgstr "容疑者"
+
+#: Template/Suspects/view.ctp:11
+msgid "Delete Suspect"
+msgstr "容疑者の削除"
+
+#: Template/Suspects/view.ctp:32
+msgid "Vehicule"
+msgstr "車両"
+
+#: Template/Suspects/view.ctp:41 Template/Users/view.ctp:46
+msgid "Related Comments"
+msgstr "関連コメント"
+
+#: Template/Suspects/view.ctp:64 Template/Users/view.ctp:75
+msgid "Related Crimes"
+msgstr "関連する犯罪"
+
+#: Template/Users/add.ctp:9 Template/Users/edit.ctp:15
+#: Template/Users/view.ctp:12
+msgid "List Users"
+msgstr "ユーザー一覧"
+
+#: Template/Users/add.ctp:21
+msgid "Add User"
+msgstr "ユーザーの追加"
+
+#: Template/Users/edit.ctp:27 Template/Users/view.ctp:10
+msgid "Edit User"
+msgstr "ユーザーの編集"
+
+#: Template/Users/index.ctp:10
+msgid "New User"
+msgstr "新規ユーザ"
+
+#: Template/Users/index.ctp:20
+msgid "Users"
+msgstr "ユーザー"
+
+#: Template/Users/view.ctp:11
+msgid "Delete User"
+msgstr "ユーザの削除"
+
+#: Template/Users/view.ctp:25
+msgid "Email"
+msgstr "メール"
+
+#: Template/Users/view.ctp:33
+msgid "Role"
+msgstr "役割"
+
+#: Template/Users/view.ctp:53;81
+msgid "Suspect Id"
+msgstr "容疑者ID"
+
+#: Template/Vehicules/add.ctp:20
+msgid "Add Vehicule"
+msgstr "車両 を追加"
+
+#: Template/Vehicules/edit.ctp:26 Template/Vehicules/view.ctp:10
+msgid "Edit Vehicule"
+msgstr "車両の編集"
+
+#: Template/Vehicules/index.ctp:10
+msgid "New Vehicule"
+msgstr "新しいビークル"
+
+#: Template/Vehicules/index.ctp:19
+msgid "Vehicules"
+msgstr "ビークルズ"
+
+#: Template/Vehicules/view.ctp:11
+msgid "Delete Vehicule"
+msgstr "車両の削除"
+
+#: Template/Vehicules/view.ctp:24
+msgid "Type"
+msgstr "タイプ"
+
+#: Template/Vehicules/view.ctp:28
+msgid "Plate"
+msgstr "図版"
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr "要求されたアドレス{0}はこのサーバーで見つかりませんでした。"
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr "内部エラーが発生しました"

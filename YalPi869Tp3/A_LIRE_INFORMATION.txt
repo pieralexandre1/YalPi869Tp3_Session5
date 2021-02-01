@@ -1,0 +1,14 @@
+Pour faire fonctionner, installer Cakephp (https://cakephp.org/)*Important step
+
+Les autorisations :
+0 = Normal
+1 = moderateur (Acces complet aux commentaire)
+2 = super-utilisateur (Peuve modfier et suprrimer tous)
+3 = Admin (Unique acces aux utilisateur et le seul pouvant modifier les role)
+
+Les comptes deja creer :
+
+email : admin@admin.com  pass : admin
+email : etudiant@cmomo.ca pass : etudiant
+email : moderateur@cmomo.ca pass : moderateur
+email : superutilisateur@cmomo.ca pass : superutilisateur

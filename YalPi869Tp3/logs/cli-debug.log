@@ -1,0 +1,106 @@
+2017-09-19 15:11:13 Notice: Notice (8): Undefined index: Events in [C:\EasyPHP-Devserver-17\eds-www\MTT1\tmp\bake\Bake-Model-table-ctp.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+include - ROOT\tmp\bake\Bake-Model-table-ctp.php, line 21
+Bake\View\BakeView::_evaluate() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 204
+Cake\View\View::_render() - CORE\src\View\View.php, line 986
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 140
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 88
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 934
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 111
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 97
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 257
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 258
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 458
+Cake\Console\ShellDispatcher::_dispatch() - CORE\src\Console\ShellDispatcher.php, line 230
+Cake\Console\ShellDispatcher::dispatch() - CORE\src\Console\ShellDispatcher.php, line 182
+Cake\Console\ShellDispatcher::run() - CORE\src\Console\ShellDispatcher.php, line 128
+[main] - ROOT\bin\cake.php, line 34
+
+
+
+2017-09-19 15:16:23 Notice: Notice (8): Undefined index: Vehicules in [C:\EasyPHP-Devserver-17\eds-www\MTT1\tmp\bake\Bake-Model-table-ctp.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+include - ROOT\tmp\bake\Bake-Model-table-ctp.php, line 21
+Bake\View\BakeView::_evaluate() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 204
+Cake\View\View::_render() - CORE\src\View\View.php, line 986
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 140
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 88
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 934
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 111
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 97
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 257
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 258
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 458
+Cake\Console\ShellDispatcher::_dispatch() - CORE\src\Console\ShellDispatcher.php, line 230
+Cake\Console\ShellDispatcher::dispatch() - CORE\src\Console\ShellDispatcher.php, line 182
+Cake\Console\ShellDispatcher::run() - CORE\src\Console\ShellDispatcher.php, line 128
+[main] - ROOT\bin\cake.php, line 34
+
+
+
+2017-09-28 16:53:40 Notice: Notice (8): Undefined index: Files in [C:\EasyPHP-Devserver-17\eds-www\MTT\tmp\bake\Bake-Model-table-ctp.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+include - ROOT\tmp\bake\Bake-Model-table-ctp.php, line 21
+Bake\View\BakeView::_evaluate() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 204
+Cake\View\View::_render() - CORE\src\View\View.php, line 986
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 140
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 88
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 934
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 111
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 97
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 257
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 258
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 458
+Cake\Console\ShellDispatcher::_dispatch() - CORE\src\Console\ShellDispatcher.php, line 230
+Cake\Console\ShellDispatcher::dispatch() - CORE\src\Console\ShellDispatcher.php, line 182
+Cake\Console\ShellDispatcher::run() - CORE\src\Console\ShellDispatcher.php, line 128
+[main] - ROOT\bin\cake.php, line 34
+
+
+
+2017-09-28 19:35:50 Notice: Notice (8): Undefined index: Vehicules in [C:\EasyPHP-Devserver-17\eds-www\MTT\tmp\bake\Bake-Model-table-ctp.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+include - ROOT\tmp\bake\Bake-Model-table-ctp.php, line 21
+Bake\View\BakeView::_evaluate() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 204
+Cake\View\View::_render() - CORE\src\View\View.php, line 986
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 140
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 88
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 934
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 111
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 97
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 257
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 258
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 458
+Cake\Console\ShellDispatcher::_dispatch() - CORE\src\Console\ShellDispatcher.php, line 230
+Cake\Console\ShellDispatcher::dispatch() - CORE\src\Console\ShellDispatcher.php, line 182
+Cake\Console\ShellDispatcher::run() - CORE\src\Console\ShellDispatcher.php, line 128
+[main] - ROOT\bin\cake.php, line 34
+
+
+
+2017-10-31 16:13:10 Notice: Notice (8): Undefined variable: vehicules in [C:\EasyPHP-Devserver-17\eds-www\YalPi869\tests\TestCase\Model\Table\VehiculesTableTest.php, line 109]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+App\Test\TestCase\Model\Table\VehiculesTableTest::testDeleting() - ROOT\tests\TestCase\Model\Table\VehiculesTableTest.php, line 109
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit_Framework_TestCase::runTest() - ROOT\vendor\phpunit\phpunit\src\Framework\TestCase.php, line 1062
+PHPUnit_Framework_TestCase::runBare() - ROOT\vendor\phpunit\phpunit\src\Framework\TestCase.php, line 913
+PHPUnit_Framework_TestResult::run() - ROOT\vendor\phpunit\phpunit\src\Framework\TestResult.php, line 686
+PHPUnit_Framework_TestCase::run() - ROOT\vendor\phpunit\phpunit\src\Framework\TestCase.php, line 868
+PHPUnit_Framework_TestSuite::run() - ROOT\vendor\phpunit\phpunit\src\Framework\TestSuite.php, line 722
+PHPUnit_Framework_TestSuite::run() - ROOT\vendor\phpunit\phpunit\src\Framework\TestSuite.php, line 722
+PHPUnit_TextUI_TestRunner::doRun() - ROOT\vendor\phpunit\phpunit\src\TextUI\TestRunner.php, line 517
+PHPUnit_TextUI_Command::run() - ROOT\vendor\phpunit\phpunit\src\TextUI\Command.php, line 186
+PHPUnit_TextUI_Command::main() - ROOT\vendor\phpunit\phpunit\src\TextUI\Command.php, line 116
+[main] - ROOT\vendor\phpunit\phpunit\phpunit, line 52
+
+
+
